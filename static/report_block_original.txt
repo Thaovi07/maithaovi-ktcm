@@ -1,0 +1,460 @@
+﻿              <!-- Page 1: Header & Priority Cards -->
+              <div class="doc-top-bar">
+                <div>
+                  <h1 class="doc-title">
+                    đŸ› Mai Tháº£o Vi Â· BĂ¡o CĂ¡o PhĂ¢n TĂ­ch Dá»¯ Liá»‡u Äiá»u HĂ nh
+                  </h1>
+                  <div class="doc-meta">
+                    PhiĂªn cháº¡y: <strong style="color: var(--text-main);">HP-20261117-083335-7C489E</strong> &bull; Tráº¡ng thĂ¡i: <span style="color: #15803d; font-weight: 700;">COMPLETED</span>
+                  </div>
+                </div>
+                <div style="text-align: right;">
+                  <span class="doc-meta-badge">KTCM AI Analytics v2.6</span>
+                  <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">Tá»‡p nguá»“n: du_lieu_kinh_doanh_mau.csv</div>
+                </div>
+              </div>
+
+              <!-- Top Priority Cards (#1, #2) -->
+              <div class="priority-cards-grid">
+                <!-- Card 1 -->
+                <div class="priority-card">
+                  <div class="priority-card-badge">đŸ¥‡ Æ¯U TIĂN #1 &bull; 8.4/10</div>
+                  <div class="priority-card-title">KĂªnh Website Â· Miá»n Nam</div>
+                  <div class="priority-card-desc">
+                    Äá» xuáº¥t Æ°u tiĂªn hĂ ng Ä‘áº§u (#1): Äáº¡t toĂ n bá»™ chá»‰ sá»‘ tÄƒng trÆ°á»Ÿng vĂ  tá»· suáº¥t lá»£i nhuáº­n cao nháº¥t (Doanh thu 173.2M VND, tÄƒng trÆ°á»Ÿng 39.3% thĂ¡ng 4) vá»›i tá»•ng Ä‘iá»ƒm 8.4/10.
+                  </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="priority-card">
+                  <div class="priority-card-badge">đŸ¥ˆ Æ¯U TIĂN #2 &bull; 7.62/10</div>
+                  <div class="priority-card-title">Cá»­a hĂ ng Trá»±c tiáº¿p Â· TĂ¬m kiáº¿m</div>
+                  <div class="priority-card-desc">
+                    Äá» xuáº¥t khai thĂ¡c tiáº¿p (#2): Äáº¡t ngÆ°á»¡ng Ä‘Ă³ng gĂ³p biĂªn lá»£i nhuáº­n á»•n Ä‘á»‹nh (+31.7M VND tÄƒng thĂªm thĂ¡ng 4) vá»›i tá»•ng Ä‘iá»ƒm 7.62/10.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section: Báº£ng So SĂ¡nh Äá»‹a BĂ n / KĂªnh Äá»‘i Chuáº©n -->
+              <div style="margin-bottom: 28px;">
+                <h3 style="font-size: 15px; font-weight: 800; color: var(--primary); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+                  đŸ“ Báº£ng So SĂ¡nh Äá»‹a BĂ n & KĂªnh PhĂ¢n Phá»‘i
+                </h3>
+                <div class="table-scroll">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Äá»‘i tÆ°á»£ng / KĂªnh</th>
+                        <th style="text-align: center;">Tá»•ng Ä‘iá»ƒm</th>
+                        <th style="text-align: center;">Káº¿t luáº­n</th>
+                        <th>CÄƒn cá»© Ä‘á»‹nh lÆ°á»£ng & LĂ½ do</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td style="font-weight: 750;">#1 Website</td>
+                        <td style="text-align: center; font-weight: 800; color: #15803d;">8.4</td>
+                        <td style="text-align: center;"><span class="badge-selected">SELECTED</span></td>
+                        <td>Äáº¡t táº¥t cáº£ ngÆ°á»¡ng báº¯t buá»™c (Product Fit 9.0/10, TÄƒng trÆ°á»Ÿng doanh thu 39.3%, Chiáº¿m 48.3% doanh sá»‘ toĂ n há»‡ thá»‘ng).</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">#2 Cá»­a hĂ ng</td>
+                        <td style="text-align: center; font-weight: 800; color: #15803d;">7.62</td>
+                        <td style="text-align: center;"><span class="badge-selected">SELECTED</span></td>
+                        <td>Äáº¡t táº¥t cáº£ ngÆ°á»¡ng báº¯t buá»™c (Product Fit 9.0/10, Doanh thu Ä‘Ă³ng gĂ³p +31.7M VND thĂ¡ng 04/2026).</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">#3 Äá»‘i tĂ¡c</td>
+                        <td style="text-align: center; font-weight: 800; color: #b45309;">6.03</td>
+                        <td style="text-align: center;"><span class="badge-monitor">THEO DĂ•I</span></td>
+                        <td>ChÆ°a Æ°u tiĂªn Ä‘á»£t 1: Chi phĂ­ há»— trá»£ vĂ  hoa há»“ng tÆ°Æ¡ng Ä‘á»‘i cao (Tá»· trá»ng doanh sá»‘ 24.0%, cáº§n rĂ  soĂ¡t láº¡i chiáº¿t kháº¥u).</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">#4 KhĂ¡c / Ă” trá»‘ng</td>
+                        <td style="text-align: center; font-weight: 800; color: #b91c1c;">4.62</td>
+                        <td style="text-align: center;"><span class="badge-disqualified">DISQUALIFIED</span></td>
+                        <td>Loáº¡i khá»i Ä‘á»£t 1: Thiáº¿u thĂ´ng tin phĂ¢n loáº¡i gá»‘c (1 dĂ²ng thiáº¿u KĂªnh, Ä‘Ă£ xá»­ lĂ½ Ä‘iá»n giĂ¡ trá»‹ chuáº©n hĂ³a).</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <!-- Section: Káº¿ Hoáº¡ch Kháº£o SĂ¡t (Go / No-Go) -->
+              <div style="margin-bottom: 30px;">
+                <h3 style="font-size: 15px; font-weight: 800; color: var(--primary); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+                  đŸ“‹ Káº¿ Hoáº¡ch Triá»ƒn Khai & Kháº£o SĂ¡t (Go / No-Go)
+                </h3>
+                <div class="table-scroll">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>KĂªnh / Äá»‹a bĂ n</th>
+                        <th>NhĂ³m má»¥c tiĂªu</th>
+                        <th>Cáº§n xĂ¡c minh</th>
+                        <th>TiĂªu chĂ­ Go / No-Go</th>
+                        <th>Phá»¥ trĂ¡ch</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td style="font-weight: 750;">Website (Miá»n Nam)</td>
+                        <td>KhĂ¡ch hĂ ng online Ä‘a kĂªnh</td>
+                        <td>XĂ¡c minh tá»· lá»‡ chuyá»ƒn Ä‘á»•i giá» hĂ ng, tá»‘c Ä‘á»™ giao hĂ ng 2h táº¡i TP.HCM vĂ  chi phĂ­ mĂ¡y chá»§.</td>
+                        <td>Chá»‘t tá»· lá»‡ Ä‘Æ¡n thĂ nh cĂ´ng &gt;= 85% vĂ  biĂªn lĂ£i gá»™p &gt;= 38%.</td>
+                        <td>TrÆ°á»Ÿng nhĂ³m E-commerce & BD Lead</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">Cá»­a hĂ ng (Miá»n Báº¯c)</td>
+                        <td>KhĂ¡ch mua trá»±c tiáº¿p showroom</td>
+                        <td>Kháº£o sĂ¡t lÆ°u lÆ°á»£ng khĂ¡ch vĂ o cá»­a hĂ ng cuá»‘i tuáº§n, hiá»‡u suáº¥t nhĂ¢n viĂªn tÆ° váº¥n táº¡i chá»—.</td>
+                        <td>Doanh thu bĂ¬nh quĂ¢n má»—i cá»­a hĂ ng &gt;= 40M VND/thĂ¡ng.</td>
+                        <td>GiĂ¡m Ä‘á»‘c BĂ¡n láº» & Ká»¹ sÆ° Giáº£i phĂ¡p</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <!-- 1. TĂ³m táº¯t Ä‘iá»u hĂ nh (Executive Summary) -->
+              <div style="margin-bottom: 28px;">
+                <h2 style="font-size: 17px; font-weight: 850; color: var(--text-main); margin-bottom: 10px; border-left: 4px solid var(--primary); padding-left: 10px;">
+                  1. TĂ³m táº¯t Ä‘iá»u hĂ nh (Executive Summary)
+                </h2>
+                <div id="report-summary-content" style="font-size: 13px; line-height: 1.6; color: var(--text-main);">
+                  <p style="margin-bottom: 8px;">
+                    &bull; <strong>Káº¿t luáº­n chĂ­nh:</strong> Äá» xuáº¥t táº­p trung ngĂ¢n sĂ¡ch vĂ  nguá»“n lá»±c tÄƒng trÆ°á»Ÿng cho 2 Ä‘á»‘i tÆ°á»£ng chá»§ lá»±c: <strong>KĂªnh Website (Miá»n Nam)</strong> vĂ  <strong>Cá»­a hĂ ng Trá»±c tiáº¿p (Chiáº¿n dá»‹ch TĂ¬m kiáº¿m)</strong>.
+                  </p>
+                  <p style="margin-bottom: 8px;">
+                    &bull; <strong>Quy mĂ´ dá»¯ liá»‡u & Chuáº©n hĂ³a:</strong> ToĂ n bá»™ 26 dĂ²ng dá»¯ liá»‡u qua 2 bá»™ nguá»“n Ä‘Ă£ Ä‘Æ°á»£c lĂ m sáº¡ch, khá»­ 1 báº£n ghi trĂ¹ng láº·p, xá»­ lĂ½ 1 Ă´ trá»‘ng, chuáº©n hĂ³a Ä‘á»‹nh dáº¡ng sá»‘ tiá»n VND vĂ  Ä‘á»“ng bá»™ chu ká»³ 4 thĂ¡ng.
+                  </p>
+                  <p>
+                    &bull; <strong>Chá»‰ sá»‘ tÄƒng trÆ°á»Ÿng ná»•i báº­t:</strong> Doanh thu ThĂ¡ng 04/2026 Ä‘áº¡t 139.600.000 VND (+39,3% so vá»›i ThĂ¡ng 03/2026), lá»£i nhuáº­n gá»™p Ä‘áº¡t 53.048.000 VND vá»›i biĂªn lá»£i nhuáº­n gá»™p 38,0%.
+                  </p>
+                </div>
+              </div>
+
+              <!-- 2. Dashboard KPI & Há»‡ Thá»‘ng Biá»ƒu Äá»“ Pastel -->
+              <div style="margin-bottom: 30px;">
+                <h2 style="font-size: 17px; font-weight: 850; color: var(--text-main); margin-bottom: 14px; border-left: 4px solid var(--primary); padding-left: 10px;">
+                  2. Dashboard Chá»‰ Sá»‘ & Biá»ƒu Äá»“ Trá»±c Quan
+                </h2>
+
+                <!-- 4 KPI Cards -->
+                <div class="dashboard-kpis" style="margin-bottom: 18px;">
+                  <article class="dashboard-kpi" style="border-top: 3px solid #38bdf8;">
+                    <h3>Sá»‘ Ä‘Æ¡n hĂ ng</h3>
+                    <strong id="kpi-orders-val">312</strong>
+                    <p>Sá»‘ Ä‘Æ¡n Ä‘Ă£ xá»­ lĂ½</p>
+                    <p><b class="delta-positive" id="kpi-orders-delta">+71,4%</b> so vá»›i ThĂ¡ng 03/2026</p>
+                  </article>
+                  <article class="dashboard-kpi" style="border-top: 3px solid #a855f7;">
+                    <h3>Doanh thu</h3>
+                    <strong id="kpi-revenue-val">139.600.000 VND</strong>
+                    <p>Doanh thu ghi nháº­n</p>
+                    <p><b class="delta-positive" id="kpi-revenue-delta">+39,3%</b> so vá»›i ThĂ¡ng 03/2026</p>
+                  </article>
+                  <article class="dashboard-kpi" style="border-top: 3px solid #34d399;">
+                    <h3>Lá»£i nhuáº­n gá»™p</h3>
+                    <strong id="kpi-profit-val">53.048.000 VND</strong>
+                    <p>BiĂªn lĂ£i gá»™p 38.0%</p>
+                    <p><b class="delta-positive" id="kpi-profit-delta">+39,3%</b> so vá»›i ThĂ¡ng 03/2026</p>
+                  </article>
+                  <article class="dashboard-kpi" style="border-top: 3px solid #fb7185;">
+                    <h3>Chi phĂ­ giĂ¡ vá»‘n</h3>
+                    <strong id="kpi-cost-val">86.552.000 VND</strong>
+                    <p>Kiá»ƒm soĂ¡t 62% doanh thu</p>
+                    <p><b class="delta-positive" id="kpi-cost-delta">+39,3%</b> so vá»›i ThĂ¡ng 03/2026</p>
+                  </article>
+                </div>
+
+                <!-- 4 Visual Panels (Pastel Palette) -->
+                <div class="dashboard-grid">
+                  <!-- Panel 1: Doanh thu theo thĂ¡ng -->
+                  <figure class="dashboard-panel">
+                    <figcaption>
+                      <strong>Doanh thu theo thĂ¡ng</strong>
+                      <span>Doanh thu (VND) Â· 4 thĂ¡ng Ä‘á»‘i chiáº¿u</span>
+                    </figcaption>
+                    <canvas id="trend-canvas" style="display: block; width: 100%; height: 175px;"></canvas>
+                  </figure>
+
+                  <!-- Panel 2: CÆ¡ cáº¥u chi phĂ­ (Donut) -->
+                  <figure class="dashboard-panel">
+                    <figcaption>
+                      <strong>CÆ¡ cáº¥u chi phĂ­ theo KĂªnh</strong>
+                      <span>PhĂ¢n bá»• ngĂ¢n sĂ¡ch váº­n hĂ nh</span>
+                    </figcaption>
+                    <div class="dashboard-donut-layout">
+                      <div class="dashboard-donut" style="background: conic-gradient(#38bdf8 0% 47.1%, #a855f7 47.1% 76%, #34d399 76% 100%);"></div>
+                      <ul class="dashboard-legend">
+                        <li>
+                          <span class="legend-swatch" style="background: #38bdf8;"></span>
+                          <span>Website</span>
+                          <strong>40.734.000 VND</strong>
+                          <span>47,1%</span>
+                        </li>
+                        <li>
+                          <span class="legend-swatch" style="background: #a855f7;"></span>
+                          <span>Cá»­a hĂ ng</span>
+                          <strong>25.048.000 VND</strong>
+                          <span>28,9%</span>
+                        </li>
+                        <li>
+                          <span class="legend-swatch" style="background: #34d399;"></span>
+                          <span>Äá»‘i tĂ¡c</span>
+                          <strong>20.770.000 VND</strong>
+                          <span>24,0%</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </figure>
+
+                  <!-- Panel 3: ÄĂ³ng gĂ³p doanh thu -->
+                  <figure class="dashboard-panel">
+                    <figcaption>
+                      <strong>ÄĂ³ng gĂ³p doanh thu theo KĂªnh</strong>
+                      <span>ThĂ¡ng 04/2026</span>
+                    </figcaption>
+                    <div class="chart">
+                      <div class="bar-row">
+                        <span class="bar-label">Website</span>
+                        <div class="bar-track"><span class="bar-fill bar-sky" style="width: 100%;"></span></div>
+                        <span class="bar-value">65.700.000 VND</span>
+                      </div>
+                      <div class="bar-row">
+                        <span class="bar-label">Cá»­a hĂ ng</span>
+                        <div class="bar-track"><span class="bar-fill bar-lavender" style="width: 61.5%;"></span></div>
+                        <span class="bar-value">40.400.000 VND</span>
+                      </div>
+                      <div class="bar-row">
+                        <span class="bar-label">Äá»‘i tĂ¡c</span>
+                        <div class="bar-track"><span class="bar-fill bar-mint" style="width: 51%;"></span></div>
+                        <span class="bar-value">33.500.000 VND</span>
+                      </div>
+                    </div>
+                  </figure>
+
+                  <!-- Panel 4: NhĂ³m lĂ m thay Ä‘á»•i doanh thu -->
+                  <figure class="dashboard-panel">
+                    <figcaption>
+                      <strong>Biáº¿n Ä‘á»™ng Doanh thu T4 vs T3</strong>
+                      <span>Thay Ä‘á»•i rĂ²ng +39.400.000 VND</span>
+                    </figcaption>
+                    <div class="chart">
+                      <div class="bar-row">
+                        <span class="bar-label">Cá»­a hĂ ng</span>
+                        <div class="bar-track"><span class="bar-fill bar-mint" style="width: 100%;"></span></div>
+                        <span class="bar-value">+31.700.000 VND</span>
+                      </div>
+                      <div class="bar-row">
+                        <span class="bar-label">Website</span>
+                        <div class="bar-track"><span class="bar-fill bar-sky" style="width: 41.6%;"></span></div>
+                        <span class="bar-value">+13.200.000 VND</span>
+                      </div>
+                      <div class="bar-row">
+                        <span class="bar-label">Äá»‘i tĂ¡c</span>
+                        <div class="bar-track"><span class="bar-fill bar-amber" style="width: 31.5%;"></span></div>
+                        <span class="bar-value">+10.000.000 VND</span>
+                      </div>
+                      <div class="bar-row">
+                        <span class="bar-label">(Ă” trá»‘ng)</span>
+                        <div class="bar-track"><span class="bar-fill negative" style="width: 48.9%;"></span></div>
+                        <span class="bar-value" style="color: #6d28d9;">-15.500.000 VND</span>
+                      </div>
+                    </div>
+                  </figure>
+                </div>
+              </div>
+
+              <!-- 3. PhĂ¢n tĂ­ch chi tiáº¿t tá»«ng Ä‘á»‘i tÆ°á»£ng (TĂ¡ch báº¡ch Facts vs Inference) -->
+              <div style="margin-bottom: 30px;">
+                <h2 style="font-size: 17px; font-weight: 850; color: var(--text-main); margin-bottom: 14px; border-left: 4px solid var(--primary); padding-left: 10px;">
+                  3. PhĂ¢n TĂ­ch Chi Tiáº¿t Tá»«ng KĂªnh & Äá»‹a BĂ n (TĂ¡ch Báº¡ch Dá»¯ Liá»‡u Gá»‘c vs Suy Luáº­n Agent)
+                </h2>
+
+                <!-- KĂªnh 1 -->
+                <article style="margin-bottom: 22px;">
+                  <h3 style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">
+                    Website & Miá»n Nam â€“ <span class="badge-selected">SELECTED</span> (Tá»•ng Ä‘iá»ƒm: 8.4/10)
+                  </h3>
+                  <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 10px;">
+                    <strong>LĂ½ do lá»±a chá»n:</strong> Äáº¡t táº¥t cáº£ ngÆ°á»¡ng báº¯t buá»™c (Product-Market Fit & TÄƒng trÆ°á»Ÿng doanh thu 39.3%) vá»›i tá»•ng Ä‘iá»ƒm 8.4/10.
+                  </p>
+
+                  <div class="facts-box">
+                    <h4>[Sá»‘ liá»‡u trong tĂ i liá»‡u â€“ Document Facts]:</h4>
+                    <ul style="font-size: 12.5px; color: #166534; padding-left: 18px; margin: 0; line-height: 1.6;">
+                      <li>Quy mĂ´ doanh thu kĂªnh Website: 173.200.000 VND trong tá»•ng 358.900.000 VND (chiáº¿m 48,3% toĂ n há»‡ thá»‘ng). Cá»™t nĂ y cĂ³ sá»‘ liá»‡u á»Ÿ 20/20 dĂ²ng.</li>
+                      <li>Khu vá»±c Miá»n Nam dáº«n Ä‘áº§u vá» doanh sá»‘ vá»›i tá»•ng 185.500.000 VND (chiáº¿m 51,7%).</li>
+                      <li>Chi phĂ­ giĂ¡ vá»‘n ghi nháº­n: 107.500.000 VND, tá»· suáº¥t lá»£i nhuáº­n gá»™p Ä‘áº¡t 37,9%.</li>
+                    </ul>
+                  </div>
+
+                  <div class="inference-box">
+                    <h4>[Suy luáº­n & ÄĂ¡nh giĂ¡ cá»§a Agent â€“ Agent Inference]:</h4>
+                    <ul style="font-size: 12.5px; color: #5b21b6; padding-left: 18px; margin: 0; line-height: 1.6;">
+                      <li>KĂªnh Website Ä‘áº¡t hiá»‡u suáº¥t chuyá»ƒn Ä‘á»•i cao nháº¥t do gáº¯n liá»n vá»›i chiáº¿n dá»‹ch quáº£ng cĂ¡o TĂ¬m kiáº¿m (cĂ³ chi phĂ­ 8.080.000 VND).</li>
+                      <li>Tá»‘c Ä‘á»™ tÄƒng trÆ°á»Ÿng thĂ¡ng 4 Ä‘áº¡t +39,3%, lĂ  Ä‘á»™ng lá»±c cá»‘t lĂµi cáº§n gia tÄƒng ngĂ¢n sĂ¡ch quáº£ng cĂ¡o digital vĂ  cáº£i thiá»‡n tá»‘c Ä‘á»™ táº£i trang.</li>
+                    </ul>
+                  </div>
+                </article>
+
+                <!-- KĂªnh 2 -->
+                <article style="margin-bottom: 22px;">
+                  <h3 style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">
+                    Cá»­a hĂ ng Trá»±c tiáº¿p & Miá»n Báº¯c â€“ <span class="badge-selected">SELECTED</span> (Tá»•ng Ä‘iá»ƒm: 7.62/10)
+                  </h3>
+                  <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 10px;">
+                    <strong>LĂ½ do lá»±a chá»n:</strong> Äáº¡t ngÆ°á»¡ng Ä‘Ă³ng gĂ³p biĂªn lá»£i nhuáº­n á»•n Ä‘á»‹nh (+31.7M VND tÄƒng thĂªm thĂ¡ng 4) vá»›i tá»•ng Ä‘iá»ƒm 7.62/10.
+                  </p>
+
+                  <div class="facts-box">
+                    <h4>[Sá»‘ liá»‡u trong tĂ i liá»‡u â€“ Document Facts]:</h4>
+                    <ul style="font-size: 12.5px; color: #166534; padding-left: 18px; margin: 0; line-height: 1.6;">
+                      <li>Doanh thu Ä‘áº¡t 85.200.000 VND, thĂ¡ng 4 tÄƒng trÆ°á»Ÿng nháº£y vá»t +31.700.000 VND so vá»›i thĂ¡ng 3.</li>
+                      <li>Äá»‹a bĂ n Miá»n Báº¯c Ä‘áº¡t 119.800.000 VND doanh thu. GiĂ¡ vá»‘n hĂ ng bĂ¡n: 53.500.000 VND.</li>
+                      <li>Sá»‘ lÆ°á»£ng Ä‘Æ¡n hĂ ng trá»±c tiáº¿p táº¡i quáº§y chiáº¿m 38% tá»•ng Ä‘Æ¡n hĂ ng ghi nháº­n.</li>
+                    </ul>
+                  </div>
+
+                  <div class="inference-box">
+                    <h4>[Suy luáº­n & ÄĂ¡nh giĂ¡ cá»§a Agent â€“ Agent Inference]:</h4>
+                    <ul style="font-size: 12.5px; color: #5b21b6; padding-left: 18px; margin: 0; line-height: 1.6;">
+                      <li>BiĂªn lá»£i nhuáº­n á»•n Ä‘á»‹nh, má»©c Ä‘á»™ phá»¥c há»“i táº¡i Ä‘iá»ƒm bĂ¡n truyá»n thá»‘ng ráº¥t tĂ­ch cá»±c sau giai Ä‘oáº¡n khuyáº¿n máº¡i.</li>
+                      <li>NĂªn tiáº¿p tá»¥c giá»¯ vá»¯ng mĂ´ hĂ¬nh bĂ¡n buĂ´n káº¿t há»£p bĂ¡n láº» táº¡i cĂ¡c tá»‰nh thĂ nh trá»ng Ä‘iá»ƒm Miá»n Báº¯c.</li>
+                    </ul>
+                  </div>
+                </article>
+
+                <!-- KĂªnh 3 -->
+                <article>
+                  <h3 style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">
+                    KĂªnh Äá»‘i tĂ¡c & Giá»›i thiá»‡u â€“ <span class="badge-monitor">THEO DĂ•I</span> (Tá»•ng Ä‘iá»ƒm: 6.03/10)
+                  </h3>
+                  <div class="facts-box">
+                    <h4>[Sá»‘ liá»‡u trong tĂ i liá»‡u â€“ Document Facts]:</h4>
+                    <p style="font-size: 12.5px; color: #166534; margin: 0;">
+                      Doanh thu ghi nháº­n 85.000.000 VND, chiáº¿n dá»‹ch giá»›i thiá»‡u chi phĂ­ tháº¥p 1.480.000 VND á»Ÿ 6/6 dĂ²ng.
+                    </p>
+                  </div>
+                  <div class="inference-box">
+                    <h4>[Suy luáº­n & ÄĂ¡nh giĂ¡ cá»§a Agent â€“ Agent Inference]:</h4>
+                    <p style="font-size: 12.5px; color: #5b21b6; margin: 0;">
+                      KĂªnh Ä‘á»‘i tĂ¡c cĂ³ chi phĂ­ marketing trá»±c tiáº¿p tháº¥p nhÆ°ng hoa há»“ng chiáº¿t kháº¥u cao, cáº§n xĂ¢y dá»±ng láº¡i chĂ­nh sĂ¡ch Ä‘áº¡i lĂ½ Ä‘á»ƒ Ä‘áº£m báº£o biĂªn lá»£i nhuáº­n trĂªn 35%.
+                    </p>
+                  </div>
+                </article>
+              </div>
+
+              <!-- 4. Káº¿ hoáº¡ch hĂ nh Ä‘á»™ng 4 giai Ä‘oáº¡n & Quáº£n trá»‹ rá»§i ro -->
+              <div style="margin-bottom: 30px;">
+                <h2 style="font-size: 17px; font-weight: 850; color: var(--text-main); margin-bottom: 12px; border-left: 4px solid var(--primary); padding-left: 10px;">
+                  4. Káº¿ Hoáº¡ch HĂ nh Äá»™ng Chiáº¿n LÆ°á»£c 4 Giai Äoáº¡n &amp; Ma Tráº­n Quáº£n Trá»‹ Rá»§i Ro
+                </h2>
+                <div class="table-scroll" style="margin-bottom: 14px;">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Giai Ä‘oáº¡n</th>
+                        <th>Háº¡ng má»¥c trá»ng tĂ¢m</th>
+                        <th>Chá»‰ sá»‘ Ä‘o lÆ°á»ng (KPI)</th>
+                        <th>TiĂªu chuáº©n Go / No-Go</th>
+                        <th>Phá»¥ trĂ¡ch</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td style="font-weight: 750;">Giai Ä‘oáº¡n 1 (Tuáº§n 1-2)</td>
+                        <td>Tá»‘i Æ°u UI/UX kĂªnh Website &amp; TÄƒng tá»‘c phá»…u checkout</td>
+                        <td>Tá»· lá»‡ bá» giá» hĂ ng &lt; 15%</td>
+                        <td><span class="badge-selected">Chá»‘t tá»· lá»‡ hoĂ n táº¥t &gt;= 85%</span></td>
+                        <td>TrÆ°á»Ÿng nhĂ³m E-commerce</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">Giai Ä‘oáº¡n 2 (Tuáº§n 3-4)</td>
+                        <td>Bá»• sung tá»“n kho cĂ¡c Ä‘iá»ƒm bĂ¡n showroom Cá»­a hĂ ng Miá»n Báº¯c</td>
+                        <td>Doanh thu bĂ¬nh quĂ¢n/Ä‘iá»ƒm</td>
+                        <td><span class="badge-selected">Doanh thu &gt;= 40M VND/thĂ¡ng</span></td>
+                        <td>GiĂ¡m Ä‘á»‘c BĂ¡n láº»</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">Giai Ä‘oáº¡n 3 (ThĂ¡ng 2)</td>
+                        <td>TĂ¡i cÆ¡ cáº¥u chĂ­nh sĂ¡ch hoa há»“ng &amp; Chiáº¿t kháº¥u kĂªnh Äá»‘i tĂ¡c</td>
+                        <td>BiĂªn lĂ£i gá»™p sau chiáº¿t kháº¥u</td>
+                        <td><span class="badge-monitor">BiĂªn lá»£i nhuáº­n gá»™p &gt;= 35%</span></td>
+                        <td>BD Lead &amp; TĂ i chĂ­nh</td>
+                      </tr>
+                      <tr>
+                        <td style="font-weight: 750;">Giai Ä‘oáº¡n 4 (ThĂ¡ng 3)</td>
+                        <td>Tá»± Ä‘á»™ng hĂ³a chuá»—i cung á»©ng &amp; Há»‡ thá»‘ng cáº£nh bĂ¡o tá»“n</td>
+                        <td>VĂ²ng quay hĂ ng tá»“n kho</td>
+                        <td><span class="badge-selected">Thá»i gian luĂ¢n chuyá»ƒn &lt;= 15 ngĂ y</span></td>
+                        <td>Váº­n hĂ nh &amp; IT</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!-- Risk Mitigation Box -->
+                <div style="background: var(--latte-bg); border: 1px solid var(--line-border); border-radius: 10px; padding: 14px 18px;">
+                  <strong style="color: var(--primary); font-size: 13px;">đŸ›¡ Ma tráº­n kiá»ƒm soĂ¡t rá»§i ro kinh doanh:</strong>
+                  <ul style="font-size: 12px; color: var(--text-main); margin: 6px 0 0 16px; line-height: 1.6;">
+                    <li><strong>Rá»§i ro Ä‘á»©t gĂ£y tá»“n kho:</strong> Thiáº¿t láº­p ngÆ°á»¡ng Ä‘áº·t hĂ ng láº¡i tá»± Ä‘á»™ng khi tá»“n kho táº¡i kho trung chuyá»ƒn Miá»n Nam dÆ°á»›i 20%.</li>
+                    <li><strong>Rá»§i ro chi phĂ­ quáº£ng cĂ¡o tÄƒng:</strong> Giá»›i háº¡n tá»· lá»‡ ngĂ¢n sĂ¡ch TĂ¬m kiáº¿m (Search Ads) trĂªn doanh thu dÆ°á»›i 6% (hiá»‡n táº¡i kiá»ƒm soĂ¡t tá»‘t á»Ÿ má»©c 4,6%).</li>
+                    <li><strong>Rá»§i ro dĂ²ng tiá»n Ä‘áº¡i lĂ½:</strong> Ăp dá»¥ng háº¡n má»©c cĂ´ng ná»£ 15 ngĂ y cho kĂªnh Äá»‘i tĂ¡c vĂ  yĂªu cáº§u kĂ½ quá»¹ Ä‘á»‘i vá»›i cĂ¡c Ä‘Æ¡n hĂ ng trĂªn 50M VND.</li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- 5. Nguá»“n vĂ  Cháº¥t lÆ°á»£ng Dá»¯ liá»‡u (Audit Trail) -->
+              <div style="margin-bottom: 30px;">
+                <h2 style="font-size: 17px; font-weight: 850; color: var(--text-main); margin-bottom: 12px; border-left: 4px solid var(--primary); padding-left: 10px;">
+                  5. Nguá»“n Dá»¯ Liá»‡u &amp; Nháº­t KĂ½ Kiá»ƒm ToĂ¡n (Audit Trail)
+                </h2>
+                <div class="report-metrics" style="margin-bottom: 14px;">
+                  <div class="metric-stat-box" style="text-align: center;">
+                    <div class="metric-stat-label">Bá»™ dá»¯ liá»‡u Ä‘á»‘i soĂ¡t</div>
+                    <div class="metric-stat-val">2</div>
+                  </div>
+                  <div class="metric-stat-box" style="text-align: center;">
+                    <div class="metric-stat-label">DĂ²ng Ä‘Ă£ phĂ¢n tĂ­ch</div>
+                    <div class="metric-stat-val">26</div>
+                  </div>
+                  <div class="metric-stat-box" style="text-align: center;">
+                    <div class="metric-stat-label">DĂ²ng lá»—i loáº¡i bá»</div>
+                    <div class="metric-stat-val">2</div>
+                  </div>
+                  <div class="metric-stat-box" style="text-align: center;">
+                    <div class="metric-stat-label">Ă” trá»‘ng Ä‘Ă£ Ä‘iá»n</div>
+                    <div class="metric-stat-val">1</div>
+                  </div>
+                </div>
+                <p style="font-size: 12px; color: var(--text-muted); line-height: 1.5;">
+                  Dá»¯ liá»‡u Ä‘Æ°á»£c náº¡p tá»« 2 tá»‡p nguá»“n: <code>du_lieu_kinh_doanh_mau.csv</code> (20 dĂ²ng) vĂ  <code>marketing_mau.csv</code> (6 dĂ²ng). Táº¥t cáº£ cĂ¡c phĂ©p tĂ­nh tá»•ng há»£p, trung bĂ¬nh vĂ  biĂªn lá»£i nhuáº­n Ä‘Ă£ Ä‘Æ°á»£c xĂ¡c minh chĂ©o báº±ng thuáº­t toĂ¡n chuáº©n hĂ³a KTCM Engine.
+                </p>
+              </div>
+
+              <!-- Sign-off & Audit Signature -->
+              <div class="report-sign-block">
+                <div>
+                  <div class="report-sign-title">ChuyĂªn ViĂªn PhĂ¢n TĂ­ch (Data Analyst)</div>
+                  <div class="report-sign-note">NgÆ°á»i láº­p vĂ  Ä‘á»‘i soĂ¡t bĂ¡o cĂ¡o</div>
+                  <div class="report-sign-space">Mai Tháº£o Vi</div>
+                  <div class="report-sign-name">Mai Tháº£o Vi &bull; Data Analyst &amp; BI</div>
+                </div>
+                <div>
+                  <div class="report-sign-title">PhĂª Duyá»‡t Nghiá»‡m Thu Há»‡ Thá»‘ng</div>
+                  <div class="report-sign-note">Chá»©ng thá»±c tá»± Ä‘á»™ng bá»Ÿi AI Agent</div>
+                  <div class="report-sign-space" style="font-family: monospace; font-size: 14px; color: #15803d; font-weight: 700;">
+                    [KTCM-AI-VERIFIED-PASS]
+                  </div>
+                  <div class="report-sign-name">KTCM AI Analytics Studio &bull; v2.6 Engine</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- LIVE HTML VIEWER CONTAINER (OUTSIDE REPORT DOCUMENT) -->
+            <div id="html-live-viewer-container" style="display: none; margin-top: 22px; border: 2px solid #059669; border-radius: 12px; padding: 14px; background: #ffffff;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                <strong style="color: #047857; font-size: 13px;">Khung xem bĂ¡o cĂ¡o HTML trá»±c tiáº¿p trĂªn giao diá»‡n:</strong>
+                <div style="display: flex; gap: 8px;">
